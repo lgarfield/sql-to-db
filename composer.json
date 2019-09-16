@@ -1,0 +1,25 @@
+{
+  "name": "garfield/db-to-mysql",
+  "keywords": [
+    "php"，
+    "mysql",
+    "directory"
+  ],
+  "description": "save sql files to mysql",
+  "type": "library",
+  "author": [
+    {
+      "name": "garfield.li",
+      "email": "garfield.li@foxmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DbToMysql\\": "src"
+    }
+  },
+  "minimun-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  }
+}
