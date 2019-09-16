@@ -3,7 +3,7 @@
   "keywords": [
     "php"，
     "mysql",
-    "directory"
+    "directory",
   ],
   "description": "save sql files to mysql",
   "type": "library",
